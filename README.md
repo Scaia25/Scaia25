@@ -1,4 +1,3 @@
-```markdown
 <h1 align="center">⚡ Hi, I'm Scaia</h1>
 <h3 align="center">Computer Science Student | Java Developer | Cybersecurity Enthusiast</h3>
 
@@ -16,25 +15,17 @@
 
 ## 🧗‍♂️ About Me
 
-```java
-public class Scaia {
-    private String role = "Computer Science Student";
-    private String[] passions = {"Cybersecurity", "Java Development", "Rock Climbing"};
-    private String philosophy = "Understanding complex systems";
-    
-    public void main() {
-        while(true) {
-            learnNewTechnology();
-            buildProjects();
-            goRockClimbing();
-        }
-    }
-    
-    public String getCurrentFocus() {
-        return "Building PsyPlatform & Exploring Cybersecurity";
-    }
-}
-```
+I'm a Computer Science student with a strong passion for Java development and cybersecurity. I love exploring how complex systems work and breaking down challenging problems - both in programming and rock climbing!
+
+**🎯 Current Focus:** Building PsyPlatform & diving deep into cybersecurity fundamentals
+
+**🌟 Interests:**
+- 🖥️ Software Development & System Architecture
+- 🔐 Cybersecurity & Ethical Hacking
+- 🧗 Rock Climbing & Outdoor Activities
+- 🔍 Understanding complex technological systems
+
+**💡 Philosophy:** "Whether it's solving a coding problem or tackling a climbing route, every challenge can be broken down into manageable steps."
 
 ## 🛠️ Tech Stack & Tools
 
@@ -59,7 +50,7 @@ public class Scaia {
 ## 🚀 Featured Project
 
 ### 🔥 [PsyPlatform](https://github.com/Scaia25/psyPlatform)
-> A modern psychological platform built with Java and modern web technologies
+A modern psychological platform built with Java and modern web technologies, currently in active development.
 
 ![Java](https://img.shields.io/badge/Made%20with-Java-ED8B00)
 ![Status](https://img.shields.io/badge/Status-In%20Development-orange)
@@ -69,11 +60,6 @@ public class Scaia {
 - 💻 Modern web interface
 - 🔐 Secure data handling
 - 📊 Analytics and reporting
-
-```bash
-# Clone and contribute!
-git clone https://github.com/Scaia25/psyPlatform.git
-```
 
 ## 📈 GitHub Analytics
 
@@ -88,20 +74,20 @@ git clone https://github.com/Scaia25/psyPlatform.git
 
 ## 🧗 Passion & Philosophy
 
-### 🧗‍♂️ Rock Climbing Mindset
-> *"Climbing teaches persistence, problem-solving, and how to break down complex challenges into manageable moves - just like coding!"*
+### Rock Climbing Mindset
+The persistence and problem-solving skills I develop through rock climbing directly translate to my approach to coding. Both require breaking down complex challenges into manageable steps and maintaining focus until the solution is found.
 
-### 🔍 Curiosity Driven
-- 🕵️‍♂️ Love understanding how complex systems work
-- 🔒 Fascinated by cybersecurity and system vulnerabilities  
-- 💡 Always exploring new technologies and methodologies
-- 🎯 Focused on writing clean, efficient, and secure code
+### Curiosity Driven Development
+- Love deconstructing complex systems to understand their inner workings
+- Fascinated by cybersecurity vulnerabilities and protection mechanisms
+- Always exploring new technologies and development methodologies
+- Committed to writing clean, efficient, and secure code
 
-## 🌟 What I'm Working On
+## 🌟 Current Focus
 
-- 🔧 **PsyPlatform** - Enhancing features and security
-- 📚 **Learning** - Advanced Java concepts & cybersecurity fundamentals
-- 🎯 **Goals** - Contributing to open-source security projects
+- **🔧 PsyPlatform Development** - Enhancing features and implementing security measures
+- **📚 Learning Journey** - Advanced Java concepts and cybersecurity fundamentals
+- **🎯 Future Goals** - Contributing to open-source security projects and expanding my expertise in system architecture
 
 ---
 
@@ -112,4 +98,3 @@ git clone https://github.com/Scaia25/psyPlatform.git
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </p>
-```
