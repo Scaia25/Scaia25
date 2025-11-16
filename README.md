@@ -43,6 +43,7 @@ I'm a Computer Science student with a strong passion for Java development and cy
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### **Currently Exploring**
+![Nmap](https://img.shields.io/badge/Nmap-FF6C37?style=for-the-badge&logo=nmap&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -52,7 +53,6 @@ I'm a Computer Science student with a strong passion for Java development and cy
 ### 🔥 [PsyPlatform](https://github.com/Scaia25/psyPlatform)
 A modern psychological platform built with Java and modern web technologies, currently in active development.
 
-![Java](https://img.shields.io/badge/Made%20with-Java-ED8B00)
 ![Status](https://img.shields.io/badge/Status-In%20Development-orange)
 
 **Key Features:**
